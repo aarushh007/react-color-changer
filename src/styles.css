@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 75px;
+  color: white;
+  font-size: 40px;
+  padding: 40px;
+  height: 300px;
+}
+button {
+  background-color: white;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  height: 30px;
+  font-family: Segoe UI;
+  font-weight: 600;
+  width: 170px;
+}
+button:hover {
+  height: 35px;
+  width: 175px;
+}
